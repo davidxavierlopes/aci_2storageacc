@@ -1,6 +1,6 @@
 # aci_2storageacc
 
-Situation:\n
-	- One Resource Group\n
-	- Two storage accounts and One fileshare each\n
-	- One Container Instance with both fileshares mounted as a volume\n
+Situation:(Enter,space,space,space)
+	- One Resource Group(Enter,space,space,space)
+	- Two storage accounts and One fileshare each(Enter,space,space,space)
+	- One Container Instance with both fileshares mounted as a volume(Enter,space,space,space)
